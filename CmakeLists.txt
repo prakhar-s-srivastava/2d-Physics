@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.0)
+project(physics)
+set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(SFML_INC "SFML/include")
+set(SFML_LIB "SFML/lib")
+
+include_directories(${SFML_INC})
+link_directories(${SFML_LIB})
+
+
+add_executable(physics MY_FIGHTERS.CPP animation.cpp Intro.cpp physics.cpp player.cpp rotatryPlayer.cpp )
+target_link_libraries(physics sfml-system-d sfml-main-d  sfml-window-d sfml-graphics-d sfml-audio-d)

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Coding Source\game dev portfolio\mylittle fighters\MY_FIGHTERS.CPP" />
+    <ClCompile Include="D:\Coding Source\game dev portfolio\mylittle fighters\animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Coding Source\game dev portfolio\mylittle fighters\Intro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Coding Source\game dev portfolio\mylittle fighters\physics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Coding Source\game dev portfolio\mylittle fighters\player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Coding Source\game dev portfolio\mylittle fighters\rotatryPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Coding Source\game dev portfolio\mylittle fighters\CmakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B785A2CE-2C15-3BD4-9BA0-1DD6D1DEAF0C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+C:/TDM-GCC-32/bin/g++ -std=c++11 MY_FIGHTERS.cpp rotatryPlayer.cpp animation.cpp physics.cpp player.cpp -o ./debug/a.exe -I ./SFML-2.5.1/include -L ./SFML-2.5.1/lib -lsfml-graphics -lsfml-window -lsfml-system

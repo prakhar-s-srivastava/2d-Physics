@@ -1,0 +1,3 @@
+D:/Coding Source/game dev portfolio/mylittle fighters/build/CMakeFiles/physics.dir
+D:/Coding Source/game dev portfolio/mylittle fighters/build/CMakeFiles/ALL_BUILD.dir
+D:/Coding Source/game dev portfolio/mylittle fighters/build/CMakeFiles/ZERO_CHECK.dir
